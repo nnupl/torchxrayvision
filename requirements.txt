@@ -1,4 +1,4 @@
-torch>=1
+torch>=2.9.0
 torchvision>=0.5
 scikit-image>=0.16
 tqdm>=4
